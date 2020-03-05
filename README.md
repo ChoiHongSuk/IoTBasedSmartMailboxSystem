@@ -16,7 +16,7 @@ HTML, JSP, JavaFX, C, Apache TomCat, NodeMCU, RaspberryPi 3+, Android Studio
 
 # Flow Chart
 > - Smart Mailbox Flow Chart
-> > <img src="https://user-images.githubusercontent.com/43469662/76013162-dc8aca00-5f5a-11ea-8e17-64408b1e173e.png">
+> > <img src="https://user-images.githubusercontent.com/43469662/76013162-dc8aca00-5f5a-11ea-8e17-64408b1e173e.png"></br>
 > > &nbsp;&nbsp;스마트 메일함 플로우 차트에서 스마트 메일함의 문이 열고 닫힘에 따라 적외선 센서를 가동하거나 데이터를 ‘0’으로 초기화할지 결정되며, 문이 닫힌 상태에서 우편물이 들어오면 적외선 센서가 들어온 우편물을 카운트하며 동시에 무선네트워크 접속 상태를 진단하고 문제없으면 데이터를 웹서버로 Post 전송한다. 이후 웹서버 측에서 Response Payload를 보내면 NodeMCU는 이를 확인하고 네트워크  연결을 종료한다.
 > - Hologram Watch Flow Chart
 > > <img src="https://user-images.githubusercontent.com/43469662/76013170-e01e5100-5f5a-11ea-9abf-a0524d7a3af4.png"></br></br>
