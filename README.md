@@ -12,7 +12,7 @@ HTML, JSP, JavaFX, C, Apache TomCat, NodeMCU, RaspberryPi 3+, Android Studio
 
 # Flow Chart
 > - System Flow Chart
-> > <img src="https://user-images.githubusercontent.com/43469662/76013153-d7c61600-5f5a-11ea-9ebf-885f7ef93b56.png" height="400"></img>
+> > <img src="https://user-images.githubusercontent.com/43469662/76013153-d7c61600-5f5a-11ea-9ebf-885f7ef93b56.png"></img>
 > - Smart Mailbox Flow Chart
 > > <img src="https://user-images.githubusercontent.com/43469662/76013162-dc8aca00-5f5a-11ea-8e17-64408b1e173e.png"></img>
 > - Hologram Watch Flow Chart
