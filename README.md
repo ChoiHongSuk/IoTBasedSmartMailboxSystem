@@ -6,18 +6,18 @@ HTML, JSP, JavaFX, C, Apache TomCat, NodeMCU, RaspberryPi 3+, Android Studio
 
 # System Architecture
 > - Service Model
-> > <center><img src="https://user-images.githubusercontent.com/43469662/76012725-20c99a80-5f5a-11ea-8cac-09eff12e9eb2.png" height="400"></center>
+> > <img src="https://user-images.githubusercontent.com/43469662/76012725-20c99a80-5f5a-11ea-8cac-09eff12e9eb2.png" height="400">
 > - System Model
-> > <img src="https://user-images.githubusercontent.com/43469662/76012581-dea05900-5f59-11ea-9b51-4f5304b0ad8f.png" height="400"></img>
+> > <img src="https://user-images.githubusercontent.com/43469662/76012581-dea05900-5f59-11ea-9b51-4f5304b0ad8f.png" height="400">
 
 # Flow Chart
 > - System Flow Chart
-> > <img src="https://user-images.githubusercontent.com/43469662/76013153-d7c61600-5f5a-11ea-9ebf-885f7ef93b56.png"></img>
+> > <img src="https://user-images.githubusercontent.com/43469662/76013153-d7c61600-5f5a-11ea-9ebf-885f7ef93b56.png">
 > - Smart Mailbox Flow Chart
-> > <img src="https://user-images.githubusercontent.com/43469662/76013162-dc8aca00-5f5a-11ea-8e17-64408b1e173e.png"></img>
+> > <img src="https://user-images.githubusercontent.com/43469662/76013162-dc8aca00-5f5a-11ea-8e17-64408b1e173e.png">
 > - Hologram Watch Flow Chart
-> > <img src="https://user-images.githubusercontent.com/43469662/76013170-e01e5100-5f5a-11ea-9abf-a0524d7a3af4.png"></img>
+> > <img src="https://user-images.githubusercontent.com/43469662/76013170-e01e5100-5f5a-11ea-9abf-a0524d7a3af4.png">
 > - Android Application Flow Chart
-> > <img src="https://user-images.githubusercontent.com/43469662/76013177-e3194180-5f5a-11ea-9ead-79481bc250a0.png"></img>
+> > <img src="https://user-images.githubusercontent.com/43469662/76013177-e3194180-5f5a-11ea-9ead-79481bc250a0.png">
 > - Web Server Flow Chart
-> > <img src="https://user-images.githubusercontent.com/43469662/76013193-e57b9b80-5f5a-11ea-9203-d972179e37f2.png"></img>
+> > <img src="https://user-images.githubusercontent.com/43469662/76013193-e57b9b80-5f5a-11ea-9203-d972179e37f2.png">
