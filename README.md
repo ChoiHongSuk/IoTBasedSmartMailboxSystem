@@ -6,7 +6,7 @@ HTML, JSP, JavaFX, C, Apache TomCat, NodeMCU, RaspberryPi 3+, Android Studio
 
 # System Architecture
 > - Service Model
-> > <img src="https://user-images.githubusercontent.com/43469662/76012725-20c99a80-5f5a-11ea-8cac-09eff12e9eb2.png" height="400"></img>
+> > <center><img src="https://user-images.githubusercontent.com/43469662/76012725-20c99a80-5f5a-11ea-8cac-09eff12e9eb2.png" height="400"></img></center>
 > - System Model
 > > <img src="https://user-images.githubusercontent.com/43469662/76012581-dea05900-5f59-11ea-9b51-4f5304b0ad8f.png" height="400"></img>
 
