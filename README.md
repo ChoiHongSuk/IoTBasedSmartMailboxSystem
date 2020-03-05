@@ -7,7 +7,7 @@ HTML, JSP, JavaFX, C, Apache TomCat, NodeMCU, RaspberryPi 3+, Android Studio
 
 # System Architecture
 > - Service Model
-> > <img src="https://user-images.githubusercontent.com/43469662/76012725-20c99a80-5f5a-11ea-8cac-09eff12e9eb2.png" height="400"></br>
+> > <img src="https://user-images.githubusercontent.com/43469662/76012725-20c99a80-5f5a-11ea-8cac-09eff12e9eb2.png" height="400"></br></br>
 > > &nbsp;배송된 우편물을 스마트 메일함을 통해 물리적 데이터를 카운트하고 웹서버를 통해 DB(DataBase)에 저장한 후 홀로그램 시계나 안드로이드 어플리케이션을 통해 사용자에게 실시간 데이터를 보여주는 서비스 모델</br>
  &nbsp;무선 네트워크를 통해  웹서버 통신을 시도하기에 상대적으로 먼 거리에서도 원활하게 통신이 가능하며 향후 다른 스마트 디바이스들을 추가적으로 연결할 수 있는 확장의 다양성을 가지고 있다. 그러나 디바이스들 간의 웹서버를 활용한 데이터 교환이 중점이기에 원활한 웹서버 운영과 DB의 효율적 데이터 관리가 매우 중요하다.
 > - System Model
