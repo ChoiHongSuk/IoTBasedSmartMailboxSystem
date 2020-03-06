@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
-#define SSID "SK_WiFi5243"
-#define PASS "1310010028"
+#define SSID "-----------"
+#define PASS "###########"
 #define DST_IP "192.168.25.59" //baidu.com
 
 SoftwareSerial dbgSerial(2, 3); // RX, TX
