@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<StackPane fx:id="background" maxHeight="500.0" maxWidth="1000.0" minHeight="250.0" minWidth="500.0" prefHeight="500.0" prefWidth="1000.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+   <children>
+      <GridPane alignment="CENTER" maxHeight="250.0" maxWidth="300.0" minHeight="50.0" minWidth="50.0" prefHeight="254.0" prefWidth="276.0" rotate="180.0" style="-fx-background-color: #ffffff; -fx-background-color: rgba(204,204,204,0.3); -fx-background-radius: 50;" StackPane.alignment="CENTER">
+         <children>
+            <Label fx:id="watch" alignment="CENTER" style="-fx-font-size: 60;" text="Time" />
+            <Label fx:id="weeken" style="-fx-font-size: 30;" text="Week" GridPane.rowIndex="1" />
+            <Label fx:id="weathering" style="-fx-font-size: 30;" text="Weathing" GridPane.rowIndex="2" />
+            <Label fx:id="mail" style="-fx-font-size: 30;" text="Mail" GridPane.rowIndex="3" />
+         </children>
+         <columnConstraints>
+            <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+         </columnConstraints>
+         <rotationAxis>
+            <Point3D y="1.0" />
+         </rotationAxis>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+      </GridPane>
+   </children>
+</StackPane>
